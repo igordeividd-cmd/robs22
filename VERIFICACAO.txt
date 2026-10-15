@@ -1,0 +1,6 @@
+Verificação do pacote: 15/10/2026
+9 testes aprovados; 2 testes opcionais ignorados por ausência da planilha original.
+Nenhum teste falhou.
+962.110 combinações de respostas conferidas contra tradução independente do VBA.
+Os 9 arquivos em dist/ são idênticos aos da versão publicada.
+A inspeção visual em navegador não foi executada.
